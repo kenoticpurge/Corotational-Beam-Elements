@@ -14,6 +14,6 @@ The implementation is verified by results in ABAQUS and comparing with the paper
 
 Use the code however you like, hopefully someone will find it useful.
 
-My advice is to go through the Cantilever Beam case first while reading through the equations in the paper "Efﬁcient formulation for dynamics of corotational 2D beams"
+My advice is to go through the Cantilever Beam folder and run the script "Cantilever_Beam_HHT". Do this while reading through the equations in the paper "Efﬁcient formulation for dynamics of corotational 2D beams"
 
 ![image](https://github.com/kenoticpurge/Corotational-Beam-Elements/assets/157754800/af4796fd-4e0d-4969-9a66-d29be97bd82d)
