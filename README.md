@@ -8,7 +8,7 @@ This is just some code for beam elements which use the "Corotational Formulation
 You'll find both planar and spatial beam elements, statics and dynamics, and a few cases studies like Canitlever Beams or Rotating Beams
 
 The "Corotational Formulation" used can be found in the following key papers:
-  "Efﬁcient formulation for dynamics of corotational 2D beams" and "Co-rotational beam elements with warping eﬀects in instability problems"
+  "Efﬁcient formulation for dynamics of corotational 2D beams", "Co-rotational beam elements with warping eﬀects in instability problems", "Consistent co-rotational framework for Euler-Bernoulli and Timoshenko beam-column elements under distributed member loads"
   
 The implementation is verified by results in ABAQUS and comparing with the papers.
 
